@@ -68,13 +68,13 @@ public class Project01StartingFiles
         }
         //Information is printed to the user.
         System.out.println("Minimum Closing Stock Information");
-        System.out.println("Date:           " + dateIndex);
-        System.out.println("Ticker:         " + tickerIndex);
-        System.out.println("Open price:     " + openPriceIndex);
-        System.out.println("High price:     " + maximumIndex);
-        System.out.println("Low price:      " + minimumIndex);
-        System.out.println("Closing price:  " + closingPriceIndex);
-        System.out.println("Volume:         " + volumeIndex);
+        System.out.println("Date: " + dateIndex);
+        System.out.println("Ticker: " + tickerIndex);
+        System.out.println("Open price: " + openPriceIndex);
+        System.out.println("High price: " + maximumIndex);
+        System.out.println("Low price: " + minimumIndex);
+        System.out.println("Closing price: " + closingPriceIndex);
+        System.out.println("Volume: " + volumeIndex);
         System.out.println(tickerIndex + " stock transactions: " + stockTransactions);
     }
 
@@ -126,13 +126,13 @@ public class Project01StartingFiles
             }
         }
         System.out.println("Maximum Closing Stock Information");
-        System.out.println("Date:           " + dateIndex);
-        System.out.println("Ticker:         " + tickerIndex);
-        System.out.println("Open price:     " + openPriceIndex);
-        System.out.println("High price:     " + maximumIndex);
-        System.out.println("Low price:      " + minimumIndex);
-        System.out.println("Closing price:  " + closingPriceIndex);
-        System.out.println("Volume:         " + volumeIndex);
+        System.out.println("Date: " + dateIndex);
+        System.out.println("Ticker: " + tickerIndex);
+        System.out.println("Open price: " + openPriceIndex);
+        System.out.println("High price: " + maximumIndex);
+        System.out.println("Low price: " + minimumIndex);
+        System.out.println("Closing price: " + closingPriceIndex);
+        System.out.println("Volume: " + volumeIndex);
         System.out.println(tickerIndex + " stock transactions: " + stockTransactions); 
     }
 
@@ -196,13 +196,13 @@ public class Project01StartingFiles
             }
         }
         file.println("Minimum Closing Stock Information");
-        file.println("Date:           " + dateIndex);
-        file.println("Ticker:         " + tickerIndex);
-        file.println("Open price:     " + openPriceIndex);
-        file.println("High price:     " + maximumIndex);
-        file.println("Low price:      " + minimumIndex);
-        file.println("Closing price:  " + closingPriceIndex);
-        file.println("Volume:         " + volumeIndex);
+        file.println("Date: " + dateIndex);
+        file.println("Ticker: " + tickerIndex);
+        file.println("Open price: " + openPriceIndex);
+        file.println("High price: " + maximumIndex);
+        file.println("Low price: " + minimumIndex);
+        file.println("Closing price: " + closingPriceIndex);
+        file.println("Volume: " + volumeIndex);
         file.println(tickerIndex + " stock transactions: " + stockTransactions);
         file.println("");
     }
@@ -257,13 +257,13 @@ public class Project01StartingFiles
             }
         }
         file.println("Maximum Closing Stock Information");
-        file.println("Date:           " + dateIndex);
-        file.println("Ticker:         " + tickerIndex);
-        file.println("Open price:     " + openPriceIndex);
-        file.println("High price:     " + maximumIndex);
-        file.println("Low price:      " + minimumIndex);
-        file.println("Closing price:  " + closingPriceIndex);
-        file.println("Volume:         " + volumeIndex);
+        file.println("Date: " + dateIndex);
+        file.println("Ticker: " + tickerIndex);
+        file.println("Open price: " + openPriceIndex);
+        file.println("High price: " + maximumIndex);
+        file.println("Low price: " + minimumIndex);
+        file.println("Closing price: " + closingPriceIndex);
+        file.println("Volume: " + volumeIndex);
         file.println(tickerIndex + " stock transactions: " + stockTransactions);
         file.println("");
     }
