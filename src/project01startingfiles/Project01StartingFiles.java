@@ -2,7 +2,7 @@ package project01startingfiles;
 
 /**
  *
- * @authors s537821 and s540200
+ * @authors and s540200
  */
 
 import java.util.Scanner;
